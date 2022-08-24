@@ -96,3 +96,14 @@ A more detailed application flow diargam:
 - [Model View Adapter](http://en.wikipedia.org/wiki/Model-view-adapter)
 - [Resource-Method-Representation](http://www.peej.co.uk/articles/rmr-architecture.html)
 - [Action-Domain-Responder](http://pmjones.github.io/adr/)
+
+## Resources
+
+1. https://www.youtube.com/watch?v=1IsL6g2ixak&ab_channel=DevMarketer
+1. https://www.youtube.com/watch?v=pCvZtjoRq1I&ab_channel=TraversyMedia
+1. https://www.freecodecamp.org/news/mvc-architecture-what-is-a-model-view-controller-framework/
+1. https://towardsdatascience.com/everything-you-need-to-know-about-mvc-architecture-3c827930b4c1
+1. https://www.geeksforgeeks.org/benefit-of-using-mvc/
+1. https://medium.com/@socraticsol/why-mvc-architecture-e833e28e0c76
+1. https://blog.ircmaxell.com/2014/11/alternatives-to-mvc.html
+1. https://www.baeldung.com/mvc-vs-mvp-pattern
