@@ -36,7 +36,7 @@ MVC is a popular software pattern used to break up the logic of an application i
 
 All of this can be summarized in the diagram below:
 
-![Application flor diagram](/images/appflow.png)
+![Application flow diagram](/images/appflow.png)
 
 This is the structure that happens regardless of the application architecture, whether it's MVC or not.
 But this is what MVC is built around.
