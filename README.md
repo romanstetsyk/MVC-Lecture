@@ -52,3 +52,10 @@ But this is what MVC is built around.
 You can see that the Model - Veiw - Controller come directly from this traditional flow of websites.
 
 ![Application flow diagram](/images/mvc.jpg)
+
+## Model
+
+- Responsible for maintaining data
+- Interacts with database
+- Communicates with the controller
+- Never communicates with the view directly
