@@ -41,4 +41,12 @@ All of this can be summarized in the diagram below:
 This is the structure that happens regardless of the application architecture, whether it's MVC or not.
 But this is what MVC is built around.
 
+## MVC structure
+
+- Code related to the database section goes into the model.
+
+- Code that's processing the information to or from the database or before it gets to the view is the controller.
+
+- Code that should be sent to the client goes into the view.
+
 You can see that the Model - Veiw - Controller come directly from this traditional flow of websites.
