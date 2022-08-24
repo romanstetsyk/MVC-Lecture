@@ -9,3 +9,9 @@ MVC is a popular software pattern used to break up the logic of an application i
 - **M**odel
 - **V**iew
 - **C**ontroller
+
+## History
+
+- First introduced in 1979 by computer scientist Trygve Reenskaug
+- Throughout the 1980's and early 90's, the MVC pattern was primarily used in desktop applications.
+- By the late 1990's, it became pretty popular within web applications.
