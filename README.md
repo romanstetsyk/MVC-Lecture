@@ -66,3 +66,11 @@ You can see that the Model - Veiw - Controller come directly from this tradition
 - Can be implemented using templating engines (ejs, handlebars, pug, etc.), or front-end frameworks (React, Vue, etc.)
 - Communicates with the controller
 - Never communicates with the database directly
+
+## Controller
+
+- Responsible for handling user interaction
+- Takes care of all the logic in our application
+- Processes HTTP requests
+- Interacts with the model
+- Interacts with the view
