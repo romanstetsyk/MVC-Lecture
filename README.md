@@ -87,3 +87,12 @@ A more detailed application flow diargam:
 - Easy planning and maintenance
 - Organizes large-size web applications
 - Simultaneous development
+
+## Alternatives
+
+- [Model View Presenter](http://en.wikipedia.org/wiki/Model-view-presenter)
+- [Hierarchical Model-View-Controller](https://en.wikipedia.org/wiki/Hierarchical_model-view-controller)
+- [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model-view-viewmodel)
+- [Model View Adapter](http://en.wikipedia.org/wiki/Model-view-adapter)
+- [Resource-Method-Representation](http://www.peej.co.uk/articles/rmr-architecture.html)
+- [Action-Domain-Responder](http://pmjones.github.io/adr/)
