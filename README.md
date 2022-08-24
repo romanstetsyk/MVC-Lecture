@@ -59,3 +59,10 @@ You can see that the Model - Veiw - Controller come directly from this tradition
 - Interacts with database
 - Communicates with the controller
 - Never communicates with the view directly
+
+## View
+
+- Responsible for all of the visual aspects of the application
+- Can be implemented using templating engines (ejs, handlebars, pug, etc.), or front-end frameworks (React, Vue, etc.)
+- Communicates with the controller
+- Never communicates with the database directly
