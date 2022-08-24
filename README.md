@@ -50,3 +50,5 @@ But this is what MVC is built around.
 - Code that should be sent to the client goes into the view.
 
 You can see that the Model - Veiw - Controller come directly from this traditional flow of websites.
+
+![Application flow diagram](/images/mvc.jpg)
