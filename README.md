@@ -74,3 +74,7 @@ You can see that the Model - Veiw - Controller come directly from this tradition
 - Processes HTTP requests
 - Interacts with the model
 - Interacts with the view
+
+A more detailed application flow diargam:
+
+![Detailed application flow diagram](/images/mvc-flow.jpg)
