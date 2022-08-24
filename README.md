@@ -25,3 +25,11 @@ MVC is a popular software pattern used to break up the logic of an application i
 - Django
 
 > NOTE: Frameworks implement the MVC structure, but MVC itself is not a framework.
+
+## CRUD application flow:
+
+1. Client makes a request to the server
+1. Server process the request.
+1. Server interacts with the database to get/add/update/delete data
+1. Server creates a page and sends it back to the client
+1. Client renders the page
