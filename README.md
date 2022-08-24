@@ -23,3 +23,5 @@ MVC is a popular software pattern used to break up the logic of an application i
 - Laravel
 - Angular
 - Django
+
+> NOTE: Frameworks implement the MVC structure, but MVC itself is not a framework.
