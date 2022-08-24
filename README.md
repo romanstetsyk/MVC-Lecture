@@ -78,3 +78,12 @@ You can see that the Model - Veiw - Controller come directly from this tradition
 A more detailed application flow diargam:
 
 ![Detailed application flow diagram](/images/mvc-flow.jpg)
+
+## Why MVC?
+
+- Separation of concerns
+- DRY (Don’t Repeat Yourself)
+- Faster Development Process
+- Easy planning and maintenance
+- Organizes large-size web applications
+- Simultaneous development
