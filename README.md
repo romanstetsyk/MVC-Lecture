@@ -33,3 +33,12 @@ MVC is a popular software pattern used to break up the logic of an application i
 1. Server interacts with the database to get/add/update/delete data
 1. Server creates a page and sends it back to the client
 1. Client renders the page
+
+All of this can be summarized in the diagram below:
+
+![Application flor diagram](/images/appflow.png)
+
+This is the structure that happens regardless of the application architecture, whether it's MVC or not.
+But this is what MVC is built around.
+
+You can see that the Model - Veiw - Controller come directly from this traditional flow of websites.
